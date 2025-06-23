@@ -68,7 +68,3 @@ pip install pandas numpy matplotlib seaborn
 
 ## Contributors
 - Smriti Aggarwal
-
-## License
-This project is open-source under the MIT License.
-
